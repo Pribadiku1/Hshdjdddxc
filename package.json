@@ -1,0 +1,21 @@
+{
+    "name": "VOID INFINITE -EXPECT",
+    "version": "12.00",
+    "description": "Telegram @cursezep",
+    "main": "zepcase.js",
+    "scripts": {
+        "start": "node zepcase.js"
+    },
+    "dependencies": {
+        "@whiskeysockets/baileys": "github:seiren-primrose/PL-Baileys",
+        "fs": "latest",
+        "chalk": "^4.1.2",
+        "moment": "^2.29.1",
+        "crypto": "latest",
+        "@octokit/rest": "latest",
+        "moment-timezone": "latest",
+        "pino": "^9.5.0",
+        "readline-sync": "^1.4.10",
+        "telegraf": "^4.16.3"
+    }
+}
